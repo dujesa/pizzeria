@@ -1,0 +1,67 @@
+<menu>
+	<Pizzas>
+		<cheese>
+			<large>550</large>
+			<small>975</small>
+		</cheese>
+		
+		<margheritta>
+			<large>685</large>
+			<small>1085</small>
+		</margheritta>
+		
+		<bacon>
+			<large>685</large>
+			<small>1085</small>
+		</bacon>
+	</Pizzas>
+
+	<Dinners>
+		<chicken_wing>725</chicken_wing>
+		<cheeseburger>575</cheeseburger>
+	</Dinners>
+	
+	<Salads>
+		<greek>
+			<large>550</large>
+			<small>450</small>
+		</greek>
+
+		<antipasto>
+			<large>650</large>
+			<small>585</small>
+		</antipasto>
+	</Salads>
+	
+	<Spaghetti>
+		<with_sauce>540</with_sauce>
+		<with_sausage>640</with_sausage>
+	</Spaghetti>
+	
+	<Lasagnas>
+		<with_sauce>625</with_sauce>
+	</Lasagnas>
+	
+	<Wraps>
+		<turkey>495</turkey>
+		<chicken>495</chicken>
+		<steak>495</steak>
+	</Wraps>
+
+	<Grinders>
+		<hamburger>
+			<large>495</large>
+			<small>585</small>
+		</hamburger>
+
+		<meatball>
+			<large>575</large>
+			<small>475</small>
+		</meatball>
+
+		<tuna>
+			<large>575</large>
+			<small>475</small>			
+		</tuna>
+	</Grinders>
+</menu>
